@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "analyse_une_chaine/1.0.0": {
+        "runtime": {
+          "analyse_une_chaine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "analyse_une_chaine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

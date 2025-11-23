@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\bin\Debug\net8.0-windows\analyse_une_chaine.exe
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\bin\Debug\net8.0-windows\analyse_une_chaine.deps.json
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\bin\Debug\net8.0-windows\analyse_une_chaine.runtimeconfig.json
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\bin\Debug\net8.0-windows\analyse_une_chaine.dll
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\bin\Debug\net8.0-windows\analyse_une_chaine.pdb
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.Form1.resources
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.AssemblyInfo.vb
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.dll
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\refint\analyse_une_chaine.dll
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.pdb
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\analyse_une_chaine.genruntimeconfig.cache
+C:\Users\DELL\Desktop\analyse_une_chaine\analyse_une_chaine\obj\Debug\net8.0-windows\ref\analyse_une_chaine.dll
